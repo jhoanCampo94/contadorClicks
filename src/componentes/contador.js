@@ -6,7 +6,8 @@ function Contador({ numClics }){
      <div className='contador'>
 			 {numClics}
 
-		 </div>   
+		 </div>
+            
     )
 }
 
